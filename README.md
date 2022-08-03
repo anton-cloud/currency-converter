@@ -16,3 +16,7 @@
 -	Чистый код
 Для реализации используйте
 -	React JS либо Angular 2+
+
+```sh
+API взятий з сайту Національного банку України: https://bank.gov.ua/ua/open-data/api-dev
+```
